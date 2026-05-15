@@ -1,0 +1,11 @@
+## Visual Studio / MSBuild
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+## NuGet (пакеты восстанавливаются через packages.config)
+# packages/ — оставлен в репозитории для офлайн-сборки учебного проекта

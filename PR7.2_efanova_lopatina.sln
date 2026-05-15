@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR7.2_efanova_lopatina", "PR7.2_efanova_lopatina\PR7.2_efanova_lopatina.csproj", "{6E796D8E-6E52-4851-B8D1-D09E975F2C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR7Tests", "PR7Tests\PR7Tests.csproj", "{24E4A4C6-15FF-414A-8DDE-788B83D5CBA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E796D8E-6E52-4851-B8D1-D09E975F2C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E796D8E-6E52-4851-B8D1-D09E975F2C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E796D8E-6E52-4851-B8D1-D09E975F2C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E796D8E-6E52-4851-B8D1-D09E975F2C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E4A4C6-15FF-414A-8DDE-788B83D5CBA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E4A4C6-15FF-414A-8DDE-788B83D5CBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E4A4C6-15FF-414A-8DDE-788B83D5CBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E4A4C6-15FF-414A-8DDE-788B83D5CBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B9566B0-7EC3-4616-BD5C-9887F720A49D}
+	EndGlobalSection
+EndGlobal
