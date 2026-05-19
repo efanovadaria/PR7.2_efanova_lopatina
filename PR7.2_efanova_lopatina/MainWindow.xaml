@@ -31,7 +31,7 @@
                  TextWrapping="Wrap"
                  VerticalScrollBarVisibility="Auto"
                  MaxLength="100000"
-                 ToolTip="Латинские буквы A–Z и a–z сдвигаются на 13; остальные символы не изменяются."/>
+                 ToolTip="Введите латинский текст (A–Z, a–z). Пример: Hello → Uryyb. Кириллица не преобразуется."/>
 
         <StackPanel Grid.Row="2"
                     Orientation="Horizontal"
@@ -85,6 +85,6 @@
                    TextWrapping="Wrap"
                    Foreground="Gray"
                    FontSize="12"
-                   Text="Вариант 12: ROT13. Документация — папка Documents рядом с .exe."/>
+                   Text="Вариант 12: ROT13 — шифруются только латинские буквы. Результат — в поле «Результат операции» внизу."/>
     </Grid>
 </Window>
