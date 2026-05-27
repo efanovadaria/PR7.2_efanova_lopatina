@@ -53,6 +53,7 @@ ROT13 — симметричное преобразование строки: к
 **Запуск:** меню *Тест* → *Обозреватель тестов* → *Запустить все тесты* (или `vstest.console`).
 
 ### Скриншот «Обозревателя тестов»
+ <img width="1107" height="621" alt="image" src="https://github.com/efanovadaria/PR7.2_efanova_lopatina/blob/1/Снимок%20экрана%202026-05-27%20130002.png" /> <br>
 
 Поместите файл `TestExplorer.png` в:
 
