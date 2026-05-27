@@ -55,16 +55,6 @@ ROT13 — симметричное преобразование строки: к
 ### Скриншот «Обозревателя тестов»
  <img width="1107" height="621" alt="image" src="https://github.com/efanovadaria/PR7.2_efanova_lopatina/blob/1/Снимок%20экрана%202026-05-27%20130002.png" /> <br>
 
-Поместите файл `TestExplorer.png` в:
-
-`PR7.2_efanova_lopatina/Documents/screenshots/TestExplorer.png`
-
-После прогона на машине разработчика:
-
-![Обозреватель тестов](PR7.2_efanova_lopatina/Documents/screenshots/TestExplorer.png)
-
-*Если скриншот отсутствует — выполните тесты в Visual Studio и сохраните снимок окна.*
-
 **Результат прогона (CLI):** все тесты **пройдены** (см. вывод `vstest` в истории сборки).
 
 ## П.8 и П.10. Баг-репорты
